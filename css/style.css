@@ -10,6 +10,15 @@ p {
   line-height: 2rem;
 }
 
+nav .input-field .prefix {
+  top: 0;
+}
+
+nav .input-field label {
+  transform: none;
+  -webkit-transform: none;
+}
+
 .sidenav-trigger {
   color: #26a69a;
 }
