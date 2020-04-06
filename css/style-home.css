@@ -67,6 +67,9 @@
   transform: translateX(-50%);
 }*/
 
+.no-padding {
+  padding: 0px;
+}
 
 .row-card-action {
   margin-bottom: 0;
