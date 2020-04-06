@@ -61,3 +61,13 @@
     top: 0;
   }
 }
+
+/*img {
+  margin-left: 50%;
+  transform: translateX(-50%);
+}*/
+
+
+.row-card-action {
+  margin-bottom: 0;
+}
