@@ -15,7 +15,7 @@ nav .input-field label {
     color: #26a69a;
 }
 
-@media only screen and (max-width : 1050px) {
+@media only screen and (max-width : 1060px) {
     nav .right .input-field .prefix {
         display: none;
     }
