@@ -73,6 +73,10 @@ nav .input-field label {
   right: 10px;
 }
 
+.conditions-list li {
+  list-style: inside !important;
+}
+
 @media only screen and (max-width : 992px) {
   .parallax-container .section {
     position: absolute;
